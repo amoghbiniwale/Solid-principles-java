@@ -1,0 +1,11 @@
+package com.aurionpro.model;
+
+public class DBLogger implements ILogger {
+
+	@Override
+	public void log(String str) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

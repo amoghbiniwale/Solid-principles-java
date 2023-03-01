@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.monocept.model.FestivalType"/>
+    <fullyQualifiedTypeName name="com.monocept.model.FixedDeposit"/>
+    <fullyQualifiedTypeName name="com.monocept.model.DiwaliInterest"/>
+    <fullyQualifiedTypeName name="com.monocept.model.HoliInterest"/>
+    <fullyQualifiedTypeName name="com.monocept.model.GanpatiInterest"/>
+    <fullyQualifiedTypeName name="com.monocept.model.OtherInterest"/>
+    <fullyQualifiedTypeName name="com.aurionpro.model.Rectangle"/>
+    <fullyQualifiedTypeName name="com.aurionpro.model.Square"/>
+    <fullyQualifiedTypeName name="com.aurionpro.model.IWorker"/>
+    <fullyQualifiedTypeName name="com.aurionpro.model.Loader"/>
+    <fullyQualifiedTypeName name="com.aurionpro.model.IWorkable"/>
+    <fullyQualifiedTypeName name="com.aurionpro.model.Robot"/>
+    <fullyQualifiedTypeName name="com.aurionpro.model.TaxCalculator"/>
+    <fullyQualifiedTypeName name="com.aurionpro.model.DBLogger"/>
+    <fullyQualifiedTypeName name="com.aurionpro.model.FileLogger"/>
+</qualifiedTypeNameHistroy>

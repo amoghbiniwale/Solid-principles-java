@@ -1,0 +1,12 @@
+package com.monocept.test;
+
+import com.monocept.model.FestivalType;
+import com.monocept.model.FixedDeposit;
+
+public class FixedDepositTest {
+
+	public static void main(String[] args) {
+		FixedDeposit fixdeposit =new FixedDeposit(1,"amogh",1,FestivalType.Holi);
+	}
+
+}

@@ -1,0 +1,29 @@
+package com.aurionpro.model;
+
+public class Loader implements IWorker {
+
+	@Override
+	public void start() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void stop() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void eat() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void rest() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

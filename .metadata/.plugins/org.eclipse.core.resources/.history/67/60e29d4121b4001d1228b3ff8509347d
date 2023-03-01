@@ -1,0 +1,28 @@
+package com.monocept.test;
+
+import com.monocept.model.DiwaliInterest;
+import com.monocept.model.FixedDeposit;
+import com.monocept.model.GanpatiInterest;
+import com.monocept.model.HoliInterest;
+import com.monocept.model.OtherInterest;
+
+public class FixDepositTest {
+	public static void main(String[] args) {
+		
+		FixedDeposit fixedDeposit1 = new FixedDeposit(101,"Amogh",1000,2,new HoliInterest());
+		System.out.println(fixedDeposit1);
+		
+		FixedDeposit fixedDeposit2 = new FixedDeposit(102,"sam",2000,2,new DiwaliInterest());
+		System.out.println(fixedDeposit2);
+		
+		FixedDeposit fixedDeposit3 = new FixedDeposit(103,"ram",3000,2,new GanpatiInterest());
+		System.out.println(fixedDeposit3);
+		
+		FixedDeposit fixedDeposit4 = new FixedDeposit(104,"kam",4000,2,new OtherInterest());
+		System.out.println(fixedDeposit4);
+		
+		fixedDeposit1.setInterest(new HoliInterest());
+		System.out.println(fixedDeposit1);
+	}
+	
+}
